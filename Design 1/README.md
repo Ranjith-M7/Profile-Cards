@@ -4,5 +4,5 @@
 
 **Screenshot:**
 
-![App Screenshot](https://github.com/Ranjith-M7/Profile-Cards/assets/126071064/22e74815-0d53-428d-84c7-ec793f9e9e30)
+![App Screenshot](https://github.com/Ranjith-M7/Profile-Cards/assets/126071064/fb9dd125-61b0-4bdd-9b8d-0e2ca8e13f0f)
 
